@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <Title>Como Começar a Programar</Title>
+
+        <style>
+            .background-red{background-color: red;}
+        </style>
+    </head>
+
+    <body>
+
+        <h1>
+           Aprendendo A Programar!
+        </h1>
+
+        <h2>
+            Aplicação Séria:
+        </h2>
+
+        <p>
+            Aqui será aplicado de forma séria os meus conhecimentos para a criação do <b>esboço de um site</b>, onde, ao tentar criar um site tentando ajudar pessoas a aprender a programar, posso também fixar os conteúdos aprendidos. Todos os links de cursos e canais do you tube que serão usados para adiquirir os conhecimentos necessários para a criação do dito cujo estarão aqui presentes.
+        </p>
+
+        <h3>
+            <B>VISITE OS CANAIS DOS DITOS CUJOS!</B>
+        </h3>
+
+        <h2>
+            Principais professores e respectivos canais :
+        </h2> 
+
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_m-8zZRJBWMwnaHcJgQv2IRr0dLcqCv1yKcQHgSEZ26jHw=s120-c-k-c0x00ffffff-no-rj" alt="Imagem de perfil do canal 'Curso em Vídeo'.">
+
+        <h3>
+            <a href="https://www.youtube.com/c/CursoemVídeo">Gustavo Guanabara - Curso em Vídeo</a>: 
+        </h3>
+
+        <p>
+            O Curso em Vídeo, criado pelo Professor Gustavo Guanabara, é uma excelente fonte de conteúdo para quem deseja aprender programação. Com aulas em vídeo totalmente gratuitas, o canal abrange diversos tópicos, incluindo Python, HTML, CSS e JavaScript. O professor Gustavo Guanabara é conhecido por sua didática acessível, e os cursos oferecem uma combinação de teoria e prática.
+        </p>
+
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_mY483PDgs7-faD3zYTWwb2zEqUfX7acxStVrKVBNRnlNw=s120-c-k-c0x00ffffff-no-rj" alt="Foto de perfil do canal 'Otávio Miranda'.">
+
+
+        <h3>
+            <a href="https://www.youtube.com/c/OtávioMiranda">Luiz Otávio Miranda - Otávio Miranda</a>:
+        </h3>
+
+        <p>
+            O canal Otávio Miranda, criado por Luiz Otávio Miranda, é uma excelente fonte de conteúdo para quem deseja aprender programação. Com mais de 12 anos de experiência, Luiz Otávio ensina de forma didática, abrangendo tópicos como Python, Docker, HTML, CSS e muito mais. Seus vídeos práticos e projetos reais tornam o aprendizado acessível, e a comunidade ativa enriquece a experiência.
+        </p>
+
+        <img src="https://yt3.googleusercontent.com/x21m2zE0KlBR71gJKt8Tg0unPvsmUaPIs7e3gHnBhBBMp2__2kfNRzs58rw1dunadx8kxDdMdQ=s120-c-k-c0x00ffffff-no-rj" alt="Logo do canal 'O Novo Programador'.">
+
+        <h3>
+            <a href="https://www.youtube.com/@ONovoProgramador">Leo Andrade - O Novo Programador</a>
+        </h3>
+
+        <p>
+            O canal “O Novo Programador,” administrado por Léo Andrade, é uma valiosa fonte de conteúdo para iniciantes na programação. Com foco em dicas práticas, entrevistas de emprego e orientações de estudo, o canal oferece insights relevantes para quem está ingressando no mundo da codificação.
+        </p>
+
+        <h3>
+            ----------------------------------------------Extra------------------------------------------
+        </h3>
+
+        <img src="https://yt3.googleusercontent.com/vZfyNo43-7nlIj_O78tjntiJZK7IQhLX9MqA_unyi-9tlHJGjU8d8E5FZUmvrW01lEh6V5uvPw=s120-c-k-c0x00ffffff-no-rj" alt="Logo do canal 'Manual Do Mundo'">
+
+        <h3>
+            <a href="https://www.youtube.com/@manualdomundo">Manual Do Mundo</a>
+        </h3>
+
+        <p>
+            Criado em 2008 pelo jornalista Iberê Thenório e sua esposa Mariana Fulfaro, o canal apresenta vídeos variados, incluindo curiosidades, experiências científicas, receitas, desafios, pegadinhas, mágicas, origamis e até curtos documentários. Com uma linguagem informal e consultoria de especialistas.
+        </p>
+
+        <hr>
+
+        <h2>
+            Vídeos e PlayLists:
+        </h2>
+
+        Serão disponibilizados links de vídeos e PlayLists dos canais citados, que me ajudaram a aprender a programar e podem te ajudar também:
+
+        <h3>
+            Curso em Vídeo:
+        </h3>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=tuHVbGmTlrQ">Não seja um programador BamBam</a> - https://www.youtube.com/watch?v=tuHVbGmTlrQ
+        </h4>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&pp=iAQB"> Curso completo HTML e CSS (módulo 1)</a> - https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&pp=iAQB
+        </h4>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&pp=iAQB">Git e GitHub</a> - https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&pp=iAQB
+        </h4>
+
+        <h3>
+            Otávio Miranda:
+        </h3>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA&pp=iAQB">Curso completo HTML e CSS</a> - https://www.youtube.com/watch?v=bCFTv8a59PE&list=PLbIBj8vQhvm00J3f3rD33tRuNLem8EgEA&pp=iAQB 
+        </h4>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=SnTBOhYFr28&list=PLbIBj8vQhvm1u3xqha_0QCIJY0EuTfhpH&pp=iAQB">Git e GitHub</a> - https://www.youtube.com/watch?v=SnTBOhYFr28&list=PLbIBj8vQhvm1u3xqha_0QCIJY0EuTfhpH&pp=iAQB
+        </h4>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=Do5k5voOyPE">Dicas de produtividade VS Code</a> - https://www.youtube.com/watch?v=Do5k5voOyPE
+        </h4>
+
+        <h3>
+            O Novo Programador:
+        </h3>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=xeVpyNmc6mo"> Melhor jeito de começar sendo programador junior</a> - https://www.youtube.com/watch?v=xeVpyNmc6mo
+  
+        </h4>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=yXuwS3o6wOg&t=584s">Guia de precificação</a> - https://www.youtube.com/watch?v=yXuwS3o6wOg&t=584s 
+        </h4>
+            
+        <h4>
+            <a href="https://www.youtube.com/watch?v=bBEhiN32HxY">5 Dicas para não tomar calote na programação</a> - https://www.youtube.com/watch?v=bBEhiN32HxY
+
+        </h4>
+
+            
+
+        <h3>
+             -------------------------------------------Extra---------------------------------------------
+        </h3>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=WyXcfCPlIlk">Instalação do VS Code para HTML5 e CSS3</a> - https://www.youtube.com/watch?v=WyXcfCPlIlk
+        </h4>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=xecAdVvR3c0&list=PLJGZ8X1mZTR-0l5gRuzQG8a-v4GeGuDfg">Curso completo Lua - Petrobrás</a> - https://www.youtube.com/watch?v=xecAdVvR3c0&list=PLJGZ8X1mZTR-0l5gRuzQG8a-v4GeGuDfg
+        </h4>
+
+        <hr>
+
+        <h2>
+            Minhas dicas:
+        </h2>
+
+        <h3>
+            Apps:
+        </h3>
+
+        <h4>
+            VS Code:
+        </h4>
+
+        <p>
+            Use o VS Code (Visual Studio Code), ele é um ótimo SourceManager, e muitos programadores usam ele por ser muito fácil de usar, ter extensões para baixar gratuitamente e mais...
+        </p>
+
+        <h4>
+            PyCharm:
+        </h4>
+
+        <p>
+            Caso queira aprender Phyton, também é possível pelo VSCode, porém há um outro SourceManager que eu recomendo muito quanto ao Phyton, o PyCharm, e o CursoEmVídeo tem um vídeo ensinando a como baixar e configurar ele.
+        </p>
+
+        <h4>
+            GitHub:
+        </h4>
+
+        O GitHub é uma rede social dos programadores, como se fosse um Instagram, onde você pode compartilhar os seus códigos com a comunidade e pedir ajuda ou ajudar alguém em um projeto.
+
+        <h4>
+            Git:
+        </h4>
+
+        Git é um sistema de controle de versão amplamente usado no desenvolvimento de softwares. Ele permite que equipes de programadores colaborem, rastreiem alterações em arquivos e revertam para versões anteriores
+
+        <h3>
+            Local:
+        </h3>
+
+        <h4>
+            Ambiente:
+        </h4>
+
+        <p>
+            Não tem como estudar ou trabalhar em um ambiente barulhento ou desorganizado, pois a sujeira e o barulho podem te incomodar e te distrair, então a minha dica é que você procure um canto, não muito claro mas também não precisa ser completamente escuro, limpe-o e reserve-o exclusivamente para estudar e programar. Outra dica: tente não escutar música ou podcasts enquanto programa ou estuda, pois pode acabar te tirando a atenção (isso é apenas uma dica; pode ser que você consiga se concentrar ouvindo música). Se quiser, pode até colocar um barulho de chuva, funciona muito bem.
+        </p>
+
+        
+        <h4>
+            Distrações:
+        </h4>
+
+        <p>
+            Quando for estudar, coloque seu celular no modo não pertube, ou desative as notificações de redes sociais, pois ao se destrair por alguns degundos você pode acabar perdendo o raciocinio. O mesmo vale para as aulas, tente ao mínimo dar bola a destrações ou apenas elimine-as, pois em qualquer destração você pode acabar perdendo o raciocinio, sempre se mantenha focado
+        </p>
+
+        <hr>
+
+        <h3>
+            Por qual linguagem começar?
+        </h3>
+
+        <p>
+            Pelos meus estudos, eu diria que há um caminho, que ao segui-lo, você poderá virar um programador de sucesso. A principal linguagem pela qual você deve começar a programar, é o HTML e o CSS, os dois ao mesmo tempo, pois ambos não são linguagens de programação, são linguagens de marcação, por isso sendo mais fáceis de aprender.
+        </p>
+
+        <p>
+            Agora, por que eu te indiquei a começar pelo HTML e o CSS? Porque, mesmo que você for ser um programador de back end, como você irá fazer atualizações e programas para interagir diretamente com o front end, sem ao menos saber como o mesmo funciona? (front end é o que as pessoas interagem diretamente, já o back end é a lógica de programação.)
+        </p>
+
+        <p>
+            Então eu acho que uma boa linha a se seguir seria, aprender primeiramente HTML5 e CSS3, depois aprender JavaScript, por ser fácil e poder mexer diretamente tanto no front quanto no back end, depois uma boa, seria aprender Phyton. Depois disso você poderia escolher qual você quer aprender pois o básico você já sabe, mas pelo menos a minha será: HTML5 e CSS3, Phyton, Lua, C#.
+        </p>
+
+
+
+        <h4>
+            <a href="https://www.youtube.com/@ONovoProgramador">Fonte de onde eu estudei</a> - https://www.youtube.com/@ONovoProgramador
+        </h4>
+
+        <hr>
+            
+        <h2>
+            O que é uma lingugem? e qual a diferença entre elas e seus tipos?
+        </h2>
+
+        <h3>
+            O que é:
+        </h3>
+
+        <p>
+            As linguagens de programação que conhcemos como Lua, Phyton, C# e etc, são como tradutores. O nosso computador entende apenas 0 e 1 (desligado e ligado), o que chamamos de código binário, e isso ainda é uma baita evolução, pois antigamente nos primórdios da tecnologia os computadores funcionavam sendo ligados e desligados, ou 0 e 1, um "oi" por exemplo, em código binário seria: 01101111 01101001.
+        </p>
+            
+        <p>
+            Essas linguagens servem como tradutores, que pegam o que você escreve e traduz para código binário, depois essas informações traduzidas são mandadas para o computador, ele dá uma resposta, então a linguagem traduz isso e exibe pra gente, e cada linguagem de programação traduz de um jeito diferente.
+        </p>
+
+        <h4>
+            <a href="https://www.youtube.com/watch?v=22nd99SLgNA&pp=ygUnbyBxdWUgw6kgdW1hIGxpbmd1YWdlbSBkZSBwcm9ncmFtYcOnw6Nv">Fonte de onde estudei</a> - https://www.youtube.com/watch?v=xecAdVvR3c0&list=PLJGZ8X1mZTR-0l5gRuzQG8a-v4GeGuDfg
+        </h4>
+
+        <hr>
+
+        <h3>
+            Quais são os tipos:
+        </h3>
+
+        <p>
+            Existem vários tipos de linguagen que são usadas nos mais variádos áreas da programação, como recuperação de arquivos, design, e mais, entre elas estão:
+        </p>
+
+        <h4>
+            Linguagens de Programação:
+        </h4>
+
+        Essas linguagens permitem que os desenvolvedores criem programas e sistemas de software. Elas são usadas para escrever algoritmos, lógica de negócios e funcionalidades.
+
+        <h4>
+            Linguagens de Marcação: 
+        </h4>
+
+        As linguagens de marcação são usadas para estruturar e formatar documentos. Elas não são linguagens de programação completas, mas definem a apresentação e organização do conteúdo.
+
+        <h4>
+            Linguagens de Consulta:
+        </h4>
+
+        Essas linguagens são usadas para recuperar informações de bancos de dados.
+
+        <h4>
+            Linguagens de Estilo:
+        </h4>
+
+        Essas linguagens definem a aparência visual de documentos.
+
+        <p>
+            HTML é uma lingugem de marcação, o CSS é uma linguagem de estilo, já o JavaScript é uma linguagem de programação.
+        </p>
+
+        <hr>
+
+        <h2>
+            Posso programar pelo celular?
+        </h2>
+
+        <p>
+            Muitas pessoas deixam de programar por não terem um computador, e não que não exista um modo de programar no celular, é só que você pode sim programar pelo seu SmartPhone, porém de uma maneira extremamente limitada, assim fazendo com que você consiga trabalhar com projetos extremamente simples, pois ferramentas como VS Code e IDE's (ambiente onde é feito a construção dos scripts) em geral não podem ser instaladas em aparelhos celulares.
+        </p>
+
+        <hr>
+
+        <h2>
+            O que eu preciso para programar?
+        </h2>
+
+        <p>
+            Muitos acham que para programar é nescessário equipamento de ponta caríssimos e muito dinheiro, porém você não precisa de todos essas coisas, asseguir, os equipamentos necessários para que você possa aprender a programar e montar seus códigos:
+        </p>
+
+        <h3>
+            Computador:
+        </h3>
+
+        <p>
+            Sim, para aprender e montar códigos é necessário um computador (NotBook, PC de mesa ou qualquer coisa que funcione como um PC), pois você precisa de uma tela grande o suficiente para observar multiplos elementos ao mesmo tempo, e além disso, instalar ferramentas como IDE's, que em celulares não possuem recursos o suficiente para a criação de um projeto relativamente grande ou até mesmo um projeto que não seja muito grande, e o seu computador nem precisa ser muito potente.
+        </p>
+
+        <h3>
+            Internet:
+        </h3>
+
+        <p>
+            Você precisará de internet para baixar as ferramentas e compartilhar suas dúvidas e códigos com amigos ou em algum lugar caso queira uma avaliação ou ajuda, além de que também é nescessário internet para ver os cursos e vídeo-aulas. A sua internet não precisa ser muito boa, 2,5g de internet já é o suficiente, porém com menos de 4g de internet o upload e download de arquivos fica mais demorado.
+        </p>
+
+        <h3>
+            Celular:
+        </h3>
+
+        <p>
+            Também é bom ter um celular para testar como a interface do site ou o que quer que você esteja fazendo, se comporta em diferentes tamanhos de tela, Para evitar desconforto nos usuários de smartphones, e consequentemente avaliações ruins.
+        </p>
+            
+        <hr>
+
+        <h4>
+
+            By Lucas Santos
+            <br><a href="https://www.youtube.com/@Nexus_WR/featured">Nexus_</a>
+
+            yt channel - https://www.youtube.com/@Nexus_WR/featured<br>
+                
+            <a href="https://github.com/lucassantos983">github profile</a> - https://github.com/lucassantos983<br>
+
+            Gmail p/ Contato - lucassantosmagalhaes2794
+        </h4>
+
+   </body>
+
+</html>
